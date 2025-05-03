@@ -45,7 +45,7 @@ The model predicts whether a given movie review is **positive** or **negative**.
 
 1. **Clone this repository**
     ```
-    git clone https://github.com/yourusername/imdb-sentiment-analysis.git
+    git clone https://github.com/AlinsBinuP/imdb-sentiment-analysis/blob/main/imdb_sentiment_analysis.ipynb
     cd imdb-sentiment-analysis
     ```
 
